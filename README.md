@@ -1,6 +1,6 @@
 # My web-CV: the Junior Front-End Dev web-app
 
-16.October 2022
+16.October 2022 [The Link](https://boisterous-kitsune-9c59c4.netlify.app/)
 
 ## OBJECTIVE
 *My web-CV* is a web-app that precents my skills to the potential employer. The template can be used by everyone. The web-app uses **React.js (18.2)**, **React Router (6.4)**, **Bootstrap for React.js**, **MUI Material Icons** and some other libraries for React.js and CSS, also there is the basic **TomTom map API** integration.
