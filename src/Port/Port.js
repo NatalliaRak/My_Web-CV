@@ -6,7 +6,9 @@ import Home from './Readme/Home/HomeRaw';
 import './readme.css';
 import Find from './Readme/Find/FindRow';
 import Rune from './Readme/Rune/RuneRow';
-import Book from './Readme/Book/BookRow'
+import Book from './Readme/Book/BookRow';
+import Cat from './Readme/CatRow/';
+import Movie from './Readme/Movie/MovieRow'
 
 
 const Port = () => {
@@ -21,6 +23,10 @@ const Port = () => {
       <Container className='animate__animated animate__fadeInDown' fluid style={style}>
           <h2>React and React Native Front-End works</h2>
           <br/>
+          <br/>
+          <Movie />
+          <br/>
+          <Cat />
           <br/>
           <Book />
           <br/>
