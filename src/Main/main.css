@@ -1,0 +1,41 @@
+body{
+  background-color: #D4CACD;
+  color: #BB2649;
+}
+
+
+a{
+  color: white!important;
+  text-decoration: none;
+
+}
+
+.colorIt{
+  color: #BB2649!important;
+  font-size: 25px
+}
+
+.navbarI{
+ background-color: #B7A990;
+}
+
+.toGl{
+  background-image: linear-gradient(to right top, #bee0fc, #badbfd, #b8d6fe, #b7d0fe, #b8cafe, #bfc9fd, #c6c8fc, #cdc7fa, #d8ccf9, #e2d1f7, #e9d7f6, #f0ddf6)!important
+}
+
+.clickIt{
+  font-size: 25px!important;
+  animation: jello;
+  animation-duration: 3s;
+}
+
+.clickIt:hover{
+  
+  animation: bounce;
+  animation-duration: 1s;
+}
+
+.icon:hover{
+  animation: swing;
+  animation-duration: 1s;
+}
