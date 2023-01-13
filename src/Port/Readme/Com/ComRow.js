@@ -29,7 +29,7 @@ export default function ComRow(){
             <ButCom />
              <br/>
              <br/>
-             <Button> <a href="https://app.netlify.com/sites/steady-ganache-1fe537/overview">
+             <Button> <a href="https://steady-ganache-1fe537.netlify.app/">
              Visit the web-app
               </a>
             </Button>
